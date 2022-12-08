@@ -89,20 +89,15 @@ Si vous avez une suggestion qui permettrait d'améliorer ce produit, merci d'ouv
 <!-- CONTACT -->
 ## Contact
 
-BRUNET Luca - brunet_l@etna-alternance.net  
-![Luca](https://auth.etna-alternance.net/api/users/brunet_l/photo)
+BRUNET Luca - brunet_l@etna-alternance.net
 
-FAYE Sarah - faye_s@etna-alternance.net  
-![Sarah](https://auth.etna-alternance.net/api/users/faye_s/photo)
+FAYE Sarah - faye_s@etna-alternance.net
 
-EL AMARI Ali - elamar_a@etna-alternance.net  
-![Ali](https://auth.etna-alternance.net/api/users/elamar_a/photo)
+EL AMARI Ali - elamar_a@etna-alternance.net
 
-LOUKILI Wissam - loukil_w@etna-alternance.net  
-![Wissam](https://auth.etna-alternance.net/api/users/loukil_w/photo)
+LOUKILI Wissam - loukil_w@etna-alternance.net
 
-MCHINDA Hamadi - mchind_h@etna-alternance.net  
-![Ayyache](https://auth.etna-alternance.net/api/users/mchind_h/photo)
+MCHINDA Hamadi - mchind_h@etna-alternance.net
 
 Lien du projet: [Who's Charly ? ](https://rendu-git.etna-alternance.net/module-9084/activity-49545/group-979599.git)
 
